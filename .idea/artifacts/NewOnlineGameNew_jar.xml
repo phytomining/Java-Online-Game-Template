@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="NewOnlineGameNew:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NewOnlineGameNew_jar</output-path>
+    <root id="archive" name="NewOnlineGameNew.jar">
+      <element id="module-output" name="NewOnlineGameNew" />
+    </root>
+  </artifact>
+</component>
